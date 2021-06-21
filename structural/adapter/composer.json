@@ -1,0 +1,23 @@
+{
+  "name": "discipulos-do-solid/solid-new-template",
+  "description": "teste de projeto",
+  "authors": [
+    {
+      "name": "Roberto Cestari",
+      "email": "robertotcestari@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "require": {
+    "php": ">=7.4",
+    "guzzlehttp/guzzle": "^7.3"
+  },
+  "require-dev": {
+    "symfony/var-dumper": "^5.2"
+  }, 
+  "license": "MIT"
+}
